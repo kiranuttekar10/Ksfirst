@@ -1,0 +1,9 @@
+                   Future scope
+1.The performance requirement of image processing application have continuously increased the computing power of   implementation especially when they are real time
+
+
+2.the real time application may consist of different image algorithm used at different stages of the process chain
+
+3.provide more flexibility and performance
+
+ Face recognition systems used today work very well under constrained conditions, although all systems work much  better with frontal mug-shot images and constant lighting. All current face recognition algorithms fail under the  vastly varying conditions under which humans need to and are able to identify other people. Next generation person  recognition systems will need to recognize people in real-time and in much less constrained situations. 
