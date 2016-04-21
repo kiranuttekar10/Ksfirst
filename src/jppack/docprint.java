@@ -64,6 +64,10 @@ public class docprint {
     		   System.out.println(e);
     	   }
        }
+       else
+       {
+    	   System.out.println("No Printers available"); 
+       }
        
        
        
